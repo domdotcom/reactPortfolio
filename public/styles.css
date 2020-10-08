@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: navy;
+  background-color: lavender;
   margin: auto -16px;
   padding: 16px 32px;
   box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
@@ -34,4 +34,8 @@ footer {
 
 footer p {
   color: #ccc;
+}
+
+project {
+  
 }
