@@ -2,6 +2,7 @@ import React from "react";
 import NavBar from "../components/NavBar"
 import Hello from "../components/Hello"
 import SocialLinks from "../components/SocialLinks";
+import Footer from "../components/Footer"
 
 function Landing(){
 
@@ -9,6 +10,7 @@ function Landing(){
         <NavBar />
         <Hello />
         <SocialLinks />
+        <Footer />
     </div>
    
 

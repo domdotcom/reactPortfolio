@@ -5,6 +5,7 @@ function AboutMe(){
 
     return <div>
         <NavBar />
+        <AboutMe />
     </div>;
 
 

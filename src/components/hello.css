@@ -1,9 +1,7 @@
-.intro{
-    
-        text-align: center;
-        padding-top:150px;
-        max-width: 600px;
-        margin-left: auto;
-        margin-right: auto;
-   
+intro {
+  text-align: center;
+  padding-top: 150px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
 }

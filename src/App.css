@@ -36,4 +36,18 @@ footer p {
   color: #ccc;
 }
 
+intro {
+  text-align: center;
+  padding-top: 150px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+container{
+  background: lavender;
+}
+fab {
+  color:black;
+}
+
 
